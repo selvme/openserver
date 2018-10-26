@@ -1,0 +1,23 @@
+.page-header__inner{
+    display: table-cell !important;
+    vertical-align: middle !important;
+    align-items: center !important;
+    height: 120px !important;
+}
+.single-pr-thumbs li {
+    display: table-cell !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+    float: left !important;
+}
+.single-pr-slides ul li a{
+	display: table-cell !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+.pr-main .left{
+    display: inline-block !important;
+}
+.title-wrap{
+    display: inline-block !important;
+}
